@@ -10,6 +10,8 @@ Functionalities added:
 ## Installation
 ### For windows users
 (run those in command prompt/cmt/terminal)
+
+
 For friday to listen to our voice/speech
 `pip install speechRecognition`
 
@@ -24,6 +26,8 @@ To get wikipedia data
 
 ### For linux users
 Learn all the above commands on terminal. Make sure to use `pip3`, because in linux `pip` refers for `python2` and `pip3` refers to `python3`.
+
+
 Install these too - 
 `pip3 install pyAudio`
 
